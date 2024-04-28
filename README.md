@@ -4,7 +4,7 @@
 
 2.1 Tableau - Regional_Sales.xlsx - source file for Tableau_RegionalSales.twb
 
-3.0 scikit_abalone.ipynb - Jupyter Notebook to label categrical variable "Sex", and a function to predict ll variables in the daa set; both categorica and numerical
+3.0 scikit_abalone.ipynb - Jupyter Notebook to label the categorical variable "Sex". Includes a function to predict all variables in the data set, both categorica and numerical
 
 3.1 abalone_data.csv - source file for Tableau_RegionalSales.twb
 
