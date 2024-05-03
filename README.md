@@ -9,3 +9,7 @@
 3.1 abalone_data.csv - source file for Tableau_RegionalSales.twb
 
 4.0 clean_interpret_data_SQL.sql - SQL code to demonstrate techniques for cleaning and interpreting data
+
+5.0 scikit_mushrooms.ipynb - Jupyter Notebook to label whether mushrooms are poisonous or not based on observable characteristics
+
+5.1 mushroom_cleaned.csv - source file for scikit_mushrooms.ipynb
