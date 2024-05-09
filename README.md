@@ -13,3 +13,7 @@
 5.0 scikit_mushrooms.ipynb - Jupyter Notebook to label whether mushrooms are poisonous or not based on observable characteristics
 
 5.1 mushroom_cleaned.csv - source file for scikit_mushrooms.ipynb
+
+6.0 R_analysis_model_Netflix.qmd - Using the Kaggle Netflix data for an example of Data cleaning, analysis, visualization, modeling, and text analysis in R
+
+6.1 Netflix_data.csv -  source file for R_analysis_model_Netflix.qmd
