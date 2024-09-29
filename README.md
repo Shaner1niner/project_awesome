@@ -17,3 +17,5 @@
 6.0 R_analysis_model_Netflix.qmd - Using the Kaggle Netflix data for an example of Data cleaning, analysis, visualization, modeling, and text analysis in R. We predict whether content will be rated as mature, based on content descriptions. 
 
 6.1 Netflix_data.csv -  source file for R_analysis_model_Netflix.qmd
+
+7.0 Tableau Sentiment Analysis for Investable assets, incorporates sentiment analysis within traditional technical analysis tools to add predictive power and additional nuance for investment decisions 
