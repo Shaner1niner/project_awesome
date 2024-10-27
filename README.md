@@ -1,8 +1,8 @@
 1.0 clippers DB - a MS Access DB designed created and loaded with SQL queries and reports. Includes graphical user interface
 
-2.0 Tableau_RegionalSales.twb - a Tableau workbook, with a story to analyze regional sales data; includes a dashboard example
+2.0 Tableau_RegionalSales.twbx - a Tableau workbook, with a story to analyze regional sales data; includes a dashboard example
 
-2.1 Tableau_Regional_Sales.xlsx - source file for Tableau_RegionalSales.twb
+2.1 Tableau_Regional_Sales.xlsx - source file for Tableau_RegionalSales.twbx
 
 3.0 scikit_abalone.ipynb - Jupyter Notebook to label the categorical variable "Sex". Includes a function to predict all variables in the data set, both categorical and numerical
 
