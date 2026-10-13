@@ -1,0 +1,41 @@
+{
+  "assistant_origin_checks": {
+    "checks/review_14_event_bands.py": "82e072677830efd2a52d3c24878aed5b26c08048d5db7f38913cb1c01c0396e4",
+    "checks/review_four_thresholds_and_equality.py": "f6199fd68331801fca2a0f770c8dce6983479640918c9fad9d818d562dd3cf56",
+    "checks/review_quartic_root.py": "703846fb3d48dee8023f74317fd5515543670075f41ee1b86aece852f9d84ba1"
+  },
+  "frozen_author_manuscript_git_blob_sha1": "4c5dbd166acd93f157867ac98fdd6f37c56de276",
+  "scientific_text_changes": "no numerical rows altered; public-copy modifications are only links, explicit scope and replay provenance",
+  "source_archive_sha256": "b1c4ac8bb6bd12ad8c5c7696b61899222a870c8b39c3bef8174fd6f4ebb9974a",
+  "status": "PUBLIC_REPRODUCIBILITY_SUBSET_2026-10-13",
+  "three_source_certificates": {
+    "EVENT_BRANCH_CERTIFICATE.md": {
+      "copy_line_count": 40,
+      "numeric_table_rows_unchanged": true,
+      "origin_git_blob_sha1": "199d14ec24b436dbcdbeba1e34392f39ebf06822",
+      "origin_sha256": "cac9814d32688fcbac1943780aee0add4b657cec56b3291c209e5981e128fc6d",
+      "packaged_git_blob_sha1": "b7a045c8e2d427383c7cc26481ab0712de536e34",
+      "packaged_sha256": "49599596236111ecca26b6b0c51892fa484b44ff63237fe2dff1d7a49b346bd3",
+      "source_line_count": 38
+    },
+    "FAILURE_WORDS_CERTIFICATE.md": {
+      "copy_line_count": 35,
+      "numeric_table_rows_unchanged": true,
+      "origin_git_blob_sha1": "e6509d1b09e39efa7eeb0a0b1c1d47da17384d58",
+      "origin_sha256": "caa9de1a478800882abdd5269e342eeef14495561e42b8fc0aeaceb878636793",
+      "packaged_git_blob_sha1": "5b04e996aa1f2fccc34c2dabb267d4a124662e62",
+      "packaged_sha256": "2c580e3b5a33fa0723cb665bb09e19ed471b176f55cc0dbac7bf30e1962a1b0f",
+      "source_line_count": 33
+    },
+    "V02_KERNEL_AND_STATEWISE_AUDIT.md": {
+      "copy_line_count": 32,
+      "numeric_table_rows_unchanged": true,
+      "origin_git_blob_sha1": "6262276e6dabe615762c9ef5101786a3df802a52",
+      "origin_sha256": "3a49183f6ca3af36f6f32cd06fdc47babdb3aa65b21e62c6f2de7727909ae3bb",
+      "packaged_git_blob_sha1": "2402710d4304fc694f9e1ba253e9536008050f3f",
+      "packaged_sha256": "22ead6055f2cd077f63e671a4681bd4b204159c7a13004fcd25a538e4a31c286",
+      "source_line_count": 30
+    }
+  },
+  "public_release_url": "https://github.com/Shaner1niner/project_awesome/tree/main/research/p5-task-preserving-compression"
+}

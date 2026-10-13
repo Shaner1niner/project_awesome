@@ -1,0 +1,6 @@
+{
+  "internal_group_2_overlap": true,
+  "separated_groups": 13,
+  "uniform_all_tau_from_Q_affine_decreasing_in_tau2": true,
+  "verified_bands": 14
+}
